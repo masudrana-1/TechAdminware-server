@@ -11,6 +11,8 @@ app.get('/', (req, res) => {
     res.send('tech api is running');
 })
 
+app.get('/courses'
+
 
 app.listen(port, () => {
     console.log('techadminware server running on this port', port);
