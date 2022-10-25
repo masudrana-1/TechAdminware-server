@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "title": "Python for Everybody Specialization",
+        "img": "https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
+        "details": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”.  This course covers Python 3."
+    },
+    {
+        "id": "02",
+        "title": "Google IT Support",
+        "img": "https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png",
+        "details": "This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you’ll be introduced to the world of Information Technology, or IT. You’ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what’s to come in this certificate program."
+    },
+    {
+        "id": "03",
+        "title": "Google Data Analytics",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg",
+        "details": "This is the first course in the Google Data Analytics Certificate. These courses will equip you with the skills you need to apply to introductory-level data analyst jobs. Organizations of all kinds need data analysts to help them improve their processes, identify opportunities and trends, launch new products, and make thoughtful decisions. In this course, you’ll be introduced to the world of data analytics through hands-on curriculum developed by Google. The material shared covers plenty of key data analytics topics, and it’s designed to give you an overview of what’s to come in the Google Data Analytics Certificate. Current Google data analysts will instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources."
+    },
+    {
+        "id": "04",
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1",
+        "details": "What fun would a web site be if there was no functionality to it? In this module, we are going to concentrate on learning the fundamentals of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation."
+    },
+    {
+        "id": "05",
+        "title": "Java Programming",
+        "img": "https://www.orientsoftware.com/Media/Default/Images/BlogPost/2021-12-23/java-language.jpg",
+        "details": "Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, learn basic web development as you build web pages using HTML, CSS, JavaScript. By the end of the course, will create a web page where others can upload their images and apply image filters that you create. After completing this course, you will be able to,Think critically about how to solve a problem using programming"
+    },
+    {
+        "id": "06",
+        "title": "Deep AI Learning",
+        "img": "https://miro.medium.com/max/631/0*Q3PICBlib-932hhH.png",
+        "details": "In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically.By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow."
+    }
+]
